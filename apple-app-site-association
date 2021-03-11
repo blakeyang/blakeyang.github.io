@@ -1,0 +1,17 @@
+{
+    "applinks":{
+        "apps":[],
+        "details":[
+            {
+                "appID":"9SR35Y6UHD.me.ele.ios.eleme",
+                "paths":[
+                    "/stage/*",
+                    "/download/",
+                    "/trial/*",
+                    "/bluearth/*",
+                    "/invoke/*"
+                ]
+            }
+        ]
+    }
+}
