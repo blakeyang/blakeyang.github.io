@@ -9,7 +9,8 @@
                     "/download/",
                     "/trial/*",
                     "/bluearth/*",
-                    "/invoke/*"
+                    "/invoke/*",
+                    "/qqtest/*"
                 ]
             }
         ]
