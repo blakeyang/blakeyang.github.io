@@ -9,8 +9,7 @@
                     "/download/",
                     "/trial/*",
                     "/bluearth/*",
-                    "/invoke/*",
-                    "/qq_conn/100947887/*"
+                    "/invoke/*"
                 ]
             }
         ]
